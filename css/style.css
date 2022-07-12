@@ -1,0 +1,48 @@
+html{
+   
+    background: url(car2.jpg);
+    background-repeat: no-repeat;
+    background-size:cover;
+    margin: 0;
+    padding: 0;
+
+}
+section{
+    
+    padding-top: 130px;
+    padding-left: 500px;
+
+}
+label{
+    color: #f5f5f5;
+    width: 150px;
+    display: inline-block;
+    
+}
+input{
+    border: 3px solid #e38a4a;
+}
+h1{
+    color: #e38a4a;
+}
+button{
+    width: 80px;
+    margin-top: 30px;
+    margin-left: 150px;
+    border: 3px solid #e38a4a;
+    background:#e99458;
+    }
+a{
+    text-decoration: none;
+}
+#female{
+    margin-left: -110px;
+    border: 3px solid #e38a4a;
+}
+#other{
+    margin-left: -90px;
+    border: 3px solid #e38a4a;
+}
+.fa-solid{
+    color: #e38a4a;
+}
